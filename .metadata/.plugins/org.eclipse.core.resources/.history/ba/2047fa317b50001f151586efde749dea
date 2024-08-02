@@ -1,0 +1,11 @@
+package com.kh.test;
+
+import com.kh.test.Fruit;
+import java.util.ArrayList;
+
+public class MyCollection {
+
+	public void test() {
+		ArrayList<Fruit> list = new ArrayList<Fruit>();
+	}
+}

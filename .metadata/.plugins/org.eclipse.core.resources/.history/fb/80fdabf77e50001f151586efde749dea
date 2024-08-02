@@ -1,0 +1,7 @@
+package com.kh.test;
+
+public class File {
+	public void fileSave(String fileName) {
+		File file = new File(fileName);
+	}
+}

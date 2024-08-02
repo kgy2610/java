@@ -1,0 +1,8 @@
+package com.kh.test;
+
+import com.kh.test.File;
+public class File {
+	public void fileSave(String fileName) {
+		File file = new File(fileName);
+	}
+}
